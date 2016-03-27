@@ -8,8 +8,6 @@ MLlib for machine learning, GraphX for graph processing,
 and Spark Streaming for stream processing.
 
 <http://spark.apache.org/>
-
-
 ## Online Documentation
 
 You can find the latest Spark documentation, including a programming
